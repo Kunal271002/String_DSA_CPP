@@ -5,9 +5,7 @@
 
 #include<iostream>
 #include<string>
-#include<cstring>
 #include<vector>
-#include<algorithm>
 using namespace std;
 
 string FrequencySort(string Name){
@@ -27,9 +25,6 @@ string FrequencySort(string Name){
 
     return Name;
 }
-
-
-
 int main(){
 
     string Name1;
