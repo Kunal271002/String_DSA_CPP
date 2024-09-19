@@ -19,9 +19,6 @@ void Reverse(string &s){
     cout<<"It is a Pallendrome";
     
 }
-
-
-
 int main(){
     string s;
     getline(cin,s);
